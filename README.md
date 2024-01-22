@@ -1,6 +1,6 @@
  <h1 align="center">Hello!👋<br>I'm Sumonto</h1>
 
-  <p>Dedicated 2D Pygame game developer and designer with a strong passion for creating immersive and visually appealing gaming experiences. With expertise in Python programming and a keen eye for aesthetics, I excel in crafting engaging gameplay mechanics, designing captivating levels, and delivering memorable gaming moments.</p>
+  <p>Dedicated 2D Pygame game developer and designer with a strong passion for creating immersive and visually appealing gaming experiences. With expertise in Python programming and a keen eye for aesthetics, I excel in crafting engaging gameplay mechanics, designing captivating levels, and delivering memorable gaming moments also solving proramming problems on <b>@Codeforce</b>.</p>
 
   <h2>Skills</h2>
   <p>
