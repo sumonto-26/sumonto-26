@@ -14,7 +14,7 @@
 Passionate about creating memorable gaming experiences, I am dedicated to staying updated on the latest trends and techniques in game development. I am always excited to collaborate with like-minded professionals and bring innovative ideas to life. Let's connect and discuss how we can create extraordinary 2D Pygame games together.
   </p>
 
-  <p>📫 Feel free to <b>reach out me</b> for collaborations or discussions.</p>
+  <p>📫 Feel free to <b>reach out me</b> for collaborations or discussions. <a href= "https://www.linkedin.com/in/sumonto26/"><b>@LinkedIn</b></a></p>
 
 
 <h3 align="center">Statistics</h3>
