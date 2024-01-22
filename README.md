@@ -15,7 +15,6 @@ Passionate about creating memorable gaming experiences, I am dedicated to stayin
   </p>
 
   <p>📫 Feel free to <b>reach out</b> me for collaborations or discussions.</p>
-# A_challenge_for_constant_coding.
 
 
 <h3 align="center">Statistics</h3>
